@@ -25,6 +25,7 @@
     "babel-register": "^6.26.0",
     "chai": "^4.1.2",
     "mocha": "^4.0.1",
+    "mongodb": "^2.2.33",
     "nodemon": "^1.12.1",
     "supertest": "^3.0.0"
   }
